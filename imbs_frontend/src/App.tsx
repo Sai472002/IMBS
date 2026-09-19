@@ -1,5 +1,5 @@
 function App() {
-  return <div className="bg-amber-600">
+  return <div className="bg-primarylight">
     hi
     </div>
 }
