@@ -1,5 +1,7 @@
 function App() {
-  return null
+  return <div className="bg-amber-600">
+    hi
+    </div>
 }
 
 export default App
